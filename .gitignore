@@ -1,3 +1,5 @@
 /.idea/
 /Pipfile.lock
 /python-selenium-webriver.iml
+/geckodriver.log
+/pages/__pycache__
